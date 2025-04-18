@@ -66,4 +66,4 @@ Live demo: [https://web-tech-neon.vercel.app/](https://web-tech-neon.vercel.app/
 
 ## 👤 Author
 **Your Name**  
-GitHub: [@your-username](https://github.com/073-Pratham)
+GitHub: [@73-Pratham](https://github.com/073-Pratham)
